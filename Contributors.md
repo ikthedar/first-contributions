@@ -41,6 +41,7 @@
 - [Piyush Yadav](https://github.com/py-piyush)
 - [Abhishek Soni](https://github.com/abhisheksoni46)
 - [Hakimullah Hakimi](https://github.com/suvuu)
+- [Ikthedar Chowdhury](https://github.com/ikthedar)
 - [Rolyyy](https://github.com/Rolyyy)
 - [Prasad Joshi](https://github.com/predatorprasad)
 - [Anant shukla](https://github.com/Anantshukla007)
